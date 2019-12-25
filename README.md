@@ -16,6 +16,10 @@ lab
 
 gear
 * ดาวโหลดจาก http:///cgi.uru.ac.th/share/gear_webmap
+ - jdk 8
+ - apache tomcat-8
+ - geoserver
+ - postgresql
 
 วิธีการติดตั้ง
 1. ติดตั้ง jdk 8

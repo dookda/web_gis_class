@@ -23,5 +23,7 @@ gear
  ```
  JAVA_HOME       C:\Program Files\Java\jdk1.8.0_231
  ```
- 3. วาง geoserver.war ไว้ใน webapp
+3. ติดตั้ง Tomcat 8
+4. ติดตั้ง PostgreSQL / PostGIS
+5. วาง geoserver.war ไว้ใน webapp
  
